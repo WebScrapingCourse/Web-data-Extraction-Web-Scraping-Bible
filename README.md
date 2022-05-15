@@ -73,5 +73,4 @@ The directories [100_dockerize_an_application_reminder_*] contain stuff that I u
 
 # License
 
-The scripts and documentation in this project are released under the [MIT License](LICENSE).# Web-data-Extraction-Web-Scraping-Bible
-# Web-data-Extraction-Web-Scraping-Bible
+The scripts and documentation in this project are released under the [MIT License](LICENSE).
