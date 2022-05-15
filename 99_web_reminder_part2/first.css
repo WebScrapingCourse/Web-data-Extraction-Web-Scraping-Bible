@@ -1,0 +1,12 @@
+body {
+    background-color: #00ffff
+}
+
+img {
+    max-width: 1000px;
+}
+
+p {
+    color: darkred;
+    font-size: 36px
+}

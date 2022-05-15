@@ -1,0 +1,6 @@
+/venv
+/07_deploy_scrapy_project(docker)
+*.csv
+*chromedriver
+*.ini
+*.idea

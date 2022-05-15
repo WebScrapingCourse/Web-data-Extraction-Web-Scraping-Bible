@@ -1,0 +1,4 @@
+
+class NewExtension:
+    pass
+

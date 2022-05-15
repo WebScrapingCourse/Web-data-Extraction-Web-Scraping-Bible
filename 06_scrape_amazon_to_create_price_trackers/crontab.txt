@@ -1,0 +1,1 @@
+32 8 * * * /bin/sh /Users/federico.spatola/files-extra/2videocorso/webscraping-bible-course-master/06_scrape_amazon_to_create_price_trackers/cron.sh
